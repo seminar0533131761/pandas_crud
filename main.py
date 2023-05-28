@@ -31,7 +31,7 @@ def max_increasing_subsequence(arr):
 # דוגמה לשימוש:
 arr = [3, 10, 2, 1, 20]
 result = max_increasing_subsequence(arr)
-print(result)  # יחזציר 3
+print(result)  #
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
